@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C4-%20Introduction%20to%20Databases%20for%20Back-End%20Development/Week-1/Practice%20Quiz-%20Knowledge%20check:%20Databases%20and%20data/ss1.png)

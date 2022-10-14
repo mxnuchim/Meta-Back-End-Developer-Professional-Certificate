@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C3-%20Version%20Control/W-2/Practice%20Quiz-%20Self%20review:%20Make%20and%20change%20directories%20and%20files/ss3.png)

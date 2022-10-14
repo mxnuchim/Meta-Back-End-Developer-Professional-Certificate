@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C3-%20Version%20Control/W-1/Practice%20Quiz-%20Knowledge%20Check:%20Introduction%20to%20version%20control/ss1.png)
