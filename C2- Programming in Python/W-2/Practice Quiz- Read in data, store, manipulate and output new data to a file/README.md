@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C2-%20Programming%20in%20Python/W-2/Practice%20Quiz-%20Read%20in%20data%2C%20store%2C%20manipulate%20and%20output%20new%20data%20to%20a%20file/ss4.png)

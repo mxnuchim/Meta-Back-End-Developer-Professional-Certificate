@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C1-Introduction%20to%20Back-End%20Development/W-1/Practice%20Quiz-%20Knowledge%20Check%20-%20The%20Web%20and%20the%20Internet/ss2.png)

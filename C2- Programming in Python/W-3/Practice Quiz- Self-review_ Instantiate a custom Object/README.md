@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Self-review:%20Instantiate%20a%20custom%20Object/ss11.png)

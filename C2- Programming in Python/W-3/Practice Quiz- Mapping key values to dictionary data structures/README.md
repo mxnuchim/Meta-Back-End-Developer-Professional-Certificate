@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C2-%20Programming%20in%20Python/W-3/Practice%20Quiz-%20Mapping%20key%20values%20to%20dictionary%20data%20structures/ss8.png)

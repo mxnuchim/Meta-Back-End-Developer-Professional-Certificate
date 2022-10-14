@@ -1,0 +1,1 @@
+![](https://github.com/CrypticFate5/Meta-Back-End-Developer-Professional-Certificate/blob/main/C2-%20Programming%20in%20Python/W-1/Practice%20Quiz-%20Self-review:%20Use%20control%20flow%20and%20loops%20to%20solve%20a%20problem/ss2.png)
